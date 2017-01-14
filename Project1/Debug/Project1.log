@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\jerem\documents\visual studio 2015\projects\project1\project1\main.cpp(23): warning C4102: 'std': unreferenced label
+  Project1.vcxproj -> c:\users\jerem\documents\visual studio 2015\Projects\Project1\Debug\Project1.exe
+  Project1.vcxproj -> c:\users\jerem\documents\visual studio 2015\Projects\Project1\Debug\Project1.pdb (Partial PDB)
